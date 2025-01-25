@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GenericObject
+comment1.params=width\ height\ color
+comment1.target=GenericObject(int,\ int,\ greenfoot.Color)
+comment10.params=
+comment10.target=int\ getDy()
+comment11.params=dx
+comment11.target=void\ setDx(int)
+comment12.params=dy
+comment12.target=void\ setDy(int)
+comment2.params=width\ height\ img
+comment2.target=GenericObject(int,\ int,\ greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ moveX()
+comment5.params=
+comment5.target=void\ moveY()
+comment6.params=x\ y
+comment6.target=boolean\ isCollisionAt(int,\ int)
+comment7.params=other
+comment7.target=void\ handleCollision(GenericObject)
+comment8.params=other
+comment8.target=boolean\ isColliding(GenericObject)
+comment9.params=
+comment9.target=int\ getDx()
+numComments=13

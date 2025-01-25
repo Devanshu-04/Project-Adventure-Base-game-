@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\n\ StartScreen\ -\ Displays\ the\ start\ screen\ with\ buttons\ and\ corresponding\ labels.\n
+comment1.params=
+comment1.target=StartScreen()
+comment2.params=previousScore
+comment2.target=StartScreen(int)
+comment3.params=
+comment3.target=void\ addButtonsWithLabels()
+numComments=4

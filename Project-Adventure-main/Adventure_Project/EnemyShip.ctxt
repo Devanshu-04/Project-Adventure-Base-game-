@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnemyShip
+comment1.params=l
+comment1.target=EnemyShip(LivesDisplay)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+numComments=4

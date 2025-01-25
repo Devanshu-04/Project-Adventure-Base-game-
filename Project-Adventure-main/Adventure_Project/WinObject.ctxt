@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WinObject
+comment0.text=\n\ \n\ \n\ @author\ Nathan\ Babineaux\n\ @version\ 11/23/24\n
+comment1.params=width\ height\ color\ complete
+comment1.target=WinObject(int,\ int,\ greenfoot.Color,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ SetFalse()
+numComments=4

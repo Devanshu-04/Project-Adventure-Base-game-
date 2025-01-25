@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Lava
+comment1.params=width\ height\ color
+comment1.target=Lava(int,\ int,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ createImage()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkPlayerCollision()
+numComments=5

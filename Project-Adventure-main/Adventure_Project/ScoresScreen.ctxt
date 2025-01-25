@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoresScreen
+comment0.text=\n\ ScoresScreen\ -\ Displays\ player\ names\ and\ scores\ on\ a\ black\ background.\n
+comment1.params=
+comment1.target=ScoresScreen()
+comment2.params=
+comment2.target=void\ displayScores()
+comment3.params=
+comment3.target=void\ loadScoresFromFile()
+comment4.params=name\ score
+comment4.target=void\ addScore(java.lang.String,\ int)
+numComments=5

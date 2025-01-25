@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LivesDisplay
+comment1.params=l
+comment1.target=LivesDisplay(int)
+comment2.params=
+comment2.target=void\ updateDisplay()
+comment3.params=
+comment3.target=void\ deacreaseLive()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=l
+comment5.target=void\ setLives(int)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment1.params=score\ name
+comment1.target=GameOverScreen(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayCurrentScoreAndName()
+comment3.params=
+comment3.target=void\ displayRanking()
+comment4.params=
+comment4.target=java.util.List\ readScores()
+comment5.params=scores
+comment5.target=void\ writeScores(java.util.List)
+comment6.params=scores
+comment6.target=java.util.List\ sortScores(java.util.List)
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextField
+comment1.params=initialText
+comment1.target=TextField(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
